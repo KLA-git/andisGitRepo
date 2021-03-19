@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "aacfeff0b753cedd",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdc63e6733af1e91",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        },
+        "group": "443f3d20317c5c06"
+      },
+      {
+        "id": "f8404a877ab3d1fb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Python/Datentypen und Datenstrukturen/Tupelz.md",
+            "mode": "preview"
+          }
+        },
+        "group": "443f3d20317c5c06"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92783211fdff8e69",
+    "type": "split",
+    "children": [
+      {
+        "id": "337fd74699e538f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef1f01049632a90e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab92402ab586a802",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 146
+  },
+  "right": {
+    "id": "5f13603da98fea98",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddd0a59c4013c0a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a14395d0290c01a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290
+  },
+  "lastOpenFiles": [
+    "Python/Datentypen und Datenstrukturen/Tupelz.md",
+    "Python/Datentypen und Datenstrukturen/Lists.md",
+    "Python/Datentypen und Datenstrukturen/Dictionaries.md",
+    "Python/Datentypen und Datenstrukturen/Strings.md",
+    "Python/Datentypen und Datenstrukturen/Untitled 1.md",
+    "Python/Datentypen und Datenstrukturen/Untitled.md",
+    "Untitled.md",
+    "Python/Datentypen und Datenstrukturen/Integer, boolean, char.md",
+    "Python/Datentypen und Datenstrukturen.md"
+  ]
+}
