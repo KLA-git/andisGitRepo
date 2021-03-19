@@ -5,3 +5,9 @@
 
 ```
 
+### Integers 
+
+### Floatings
+
+### Strings 
+
