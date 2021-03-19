@@ -1,3 +1,5 @@
 # andisGitRep
-#### some changes to my Readme
+#### Coding Notes mit Obsidian
+
+### PYTHON Playground
 
