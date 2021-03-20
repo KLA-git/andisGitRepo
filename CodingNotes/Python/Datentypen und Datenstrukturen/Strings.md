@@ -40,6 +40,6 @@ letter * 10
 ````
 
 ### Funktionen für Strings 
-[[String-Objekte]]
+[[String objs build ins]]
 
 

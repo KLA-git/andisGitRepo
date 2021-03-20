@@ -9,7 +9,7 @@ liste.append('d') #-> hängt hinten an
 liste.pop(X)#-> returned Item an X aus der Liste und entfernt es
 ```
 - anders als bei Strings kann man Elemente über den Index ändern
-sieht auch [[Listen]]
+sieht auch [[Listen build ins]]
 
 ```python
 
@@ -18,5 +18,23 @@ sieht auch [[Listen]]
 
 list1 =[1,2,3, [4,5], [6,7,8]]
 print(list1)
+
+```
+
+Zahlenliste generieren
+[[Generator build in]]
+
+### __Tupel unpacking__
+```python
+myList=[(1,2),(3,4),(5,6)(7,8)]
+len(myList) #->4
+
+for i in myList:
+	print(i)
+	
+######## TUPEL UNPACKING #######
+for (a,b) in myList:
+	print(a)
+	print(b)
 
 ```
