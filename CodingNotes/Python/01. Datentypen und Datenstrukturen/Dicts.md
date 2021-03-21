@@ -22,7 +22,7 @@ dicts={
 dicts["alter"] =36
 ```
 
-### Iterieren DICTIONARIES
+### Iterieren 
 ```python
 myD={
 	'k1':1,

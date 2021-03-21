@@ -8,22 +8,25 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Python/04. Build.In Funktionen/Dictionaries build ins.md",
+            "mode": "source"
+          }
         },
-        "group": "325882627cf09182"
+        "group": "aca78d279bdcde56"
       },
       {
-        "id": "4e807e3839936d5a",
+        "id": "08bfbb82c6adf371",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/01. Datentypen und Datenstrukturen/Dicts.md",
+            "file": "Python/04. Build.In Funktionen/Dictionaries build ins.md",
             "mode": "preview"
           }
         },
-        "group": "325882627cf09182"
+        "group": "aca78d279bdcde56"
       }
     ],
     "direction": "vertical"
@@ -79,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/04. Build.In Funktionen/Dictionaries build ins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Python/01. Datentypen und Datenstrukturen/Dicts.md",
-    "Python/03 File I_O.md",
-    "Python/Build.In Funktionen/Generator build in.md",
-    "Python/Build.In Funktionen/Enumerate - build in.md",
-    "Python/Build.In Funktionen/Untitled.md",
-    "Python/Loops.md",
-    "Python/Datentypen und Datenstrukturen/Dicts.md",
-    "Python/Datentypen und Datenstrukturen/Lists.md",
-    "Python/File I_O.md",
-    "Python/Build.In Funktionen/Listen build ins.md"
+    "Python/04. Build.In Funktionen/Dictionaries build ins.md",
+    "Python/04. Build.In Funktionen/Listen build ins.md",
+    "Python/04. Build.In Funktionen/ZIP - function build in.md",
+    "Bildschirmfoto 2021-03-21 um 10.14.23.png",
+    "Bildschirmfoto 2021-03-21 um 10.12.58.png",
+    "Python/04. Build.In Funktionen/Untitled.md",
+    "Python/04. Build.In Funktionen/Enumerate - build in.md",
+    "Python/04. Build.In Funktionen/String objs build ins.md",
+    "Python/04. Build.In Funktionen/Range - build in.md",
+    "Python/04. Build.In Funktionen/Print function build ins.md"
   ]
 }
